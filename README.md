@@ -1,2 +1,28 @@
 # post-Covid-symptoms-recovery-analysis
-Exploratory Data Analysis of post-COVID symptoms and recovery patterns using Python, Pandas, NumPy, Matplotlib, and Seaborn.
+# Exploratory Analysis of Post-COVID Symptoms and Recovery
+
+## Overview
+This project explores post-COVID symptoms and recovery patterns using Exploratory Data Analysis (EDA). It aims to identify patterns in symptoms and understand variations in recovery duration among patients.
+
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Key Tasks
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Statistical analysis
+- Data visualization
+- Recovery pattern analysis
+
+## Disclaimer
+This project is for educational purposes only and does not provide medical advice.
+
+## Author
+**Sreelakshmi**
+
+B.Voc Data Science and Analytics
