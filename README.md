@@ -1,4 +1,3 @@
-# post-Covid-symptoms-recovery-analysis
 # Exploratory Analysis of Post-COVID Symptoms and Recovery
 
 ## Overview
